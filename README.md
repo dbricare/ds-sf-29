@@ -58,6 +58,23 @@ All will be held in the student center at GA, 225 Bush Street, SF.
 * Take a look at Kaggle's [Titanic competition](https://www.kaggle.com/c/titanic)
 * Get started on [Project 1](./projects/unit-projects/project-1/), it's due next week!
 
+## Class 3: Stat Fundamentals I
+
+#### Homework
+
+* [Project 1](./projects/unit-projects/project-1/), it's due next week!
+
+## Class 4: Stat Fundamentals II
+
+#### Homework
+
+* Read through [Project 2](projects/unit-projects/project-1/), it's due next week!
+
+## Class 5: APIs and Getting Data
+
+#### Homework
+
+* Read through [Project 2](projects/unit-projects/project-1/), it's due next week!
 
 ## Tentative Schedule (dates are fixed, topics will likely change)
 
