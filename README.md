@@ -106,5 +106,4 @@ All will be held in the student center at GA, 225 Bush Street, SF.
 | 17 | 1/11 | Introduction to Databases | |
 | 18 | 1/16 | Wrapping Up and Next Steps | [Final Project 4](projects/final-projects/04-notebook-rough-draft)|
 | 19 | 1/18 | Final Project Presentations | |
->>>>>>> be880168db25caf43b44216e8b11702f2b93b183
 | 20 | 1/23 | Final Project Presentations, Part 2 |[Final Project 5](projects/final-projects/05-presentation)|
